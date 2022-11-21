@@ -16,10 +16,9 @@
 ## Some Screens
 
 <p align="center">
-  <img src=https://user-images.githubusercontent.com/63148392/202896882-79a9d2cd-7332-4c64-8ba2-2f2ad8dd71b7.png>
-  <img src=https://user-images.githubusercontent.com/63148392/202896903-7de809a2-934f-4c44-8164-4fe84cc1d6dd.png>
-  <img src=https://user-images.githubusercontent.com/63148392/202896928-8318c7ad-7a0c-4172-8b05-a263a131df1b.png>
-  <img src=https://user-images.githubusercontent.com/63148392/202896977-cecfadbb-7713-4603-a182-8f3b9ba757e0.png>
-  <img src=https://user-images.githubusercontent.com/63148392/202896999-790dc51a-a04d-44e7-80f4-eb29270134a4.png>
-  <img src=https://user-images.githubusercontent.com/63148392/202897031-72096e57-4a8c-4ecb-8582-770c07ccaa25.png>
+  <img src=https://user-images.githubusercontent.com/63148392/202938090-3c7687b0-2ba0-4fc3-9c34-5990512a9b66.png width=360>
+  <img src=https://user-images.githubusercontent.com/63148392/202938129-ad196cbc-9348-4f58-adf0-961eb368b2f6.png width=360>
+  <img src=https://user-images.githubusercontent.com/63148392/202938164-12ca87ee-4980-45a2-aed3-93cf1f3eb0f6.png width=360>
+  <img src=https://user-images.githubusercontent.com/63148392/202938223-7fb07238-7cca-434c-bbe4-cbafec176497.png width=360>
+  <img src=https://user-images.githubusercontent.com/63148392/202938265-e47fb8a8-15ec-4502-9feb-9640a37976d5.png width=360> 
 </p>
